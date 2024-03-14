@@ -13,4 +13,4 @@ Mache einen Fork dieses Repositories, clone es bei dir lokal, mache
 deine Änderungen und pushe sie zu Github, und stelle dann einen Pull-
 Request zu meinem Projekt.
 
-was geht jungs 
+was geht jungs hahah 
